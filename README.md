@@ -2,6 +2,8 @@
 
 **Taksha** is a handcrafted gifting platform that blends traditional Indian artistry with modern design. This is the frontend codebase for the Taksha E-Commerce Website.
 
+<img width="2820" height="1531" alt="taksha project screenshot" src="https://github.com/user-attachments/assets/d17d7a46-010d-467f-bfea-1789396dab66" />
+
 ## 🖼️ Live Preview
 
 🔗 [Click Here](https://takshaveda.netlify.app/)
